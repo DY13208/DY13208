@@ -58,7 +58,7 @@
 
 <!-- #### My Coding Project And Language -->
 
-<div style="text-align: center;">
+<div align="center">
     <img height="165" src="https://github-readme-stats.vercel.app/api?username=DY13208&theme=tokyonight&show_icons=true" />
     <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DY13208&theme=tokyonight&langs_count=6&layout=compact" />
 </div>
