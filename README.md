@@ -5,7 +5,7 @@
 <div>&nbsp;</div>
 
 <div align="center">
-	<!-- <a href='https://www.microsoft.com/windows/windows-10'> -->
+	<!-- <a href='https://www.microsoft.com/windows/windows-11'> -->
 		<img src="https://img.shields.io/badge/Windows-10-4e9eee?style=flat-square&logo=windows&logoColor=ffffff"/>
 	</a>
 	<!-- <a href='https://www.oneplus.com/'> -->
@@ -42,9 +42,14 @@
     <!-- </a> -->
 </div>
 
-<p align="center"><a href="https://DY13208.github.io"><img width="80%" alt="Hello, I'm Anurag. I do open source!" src="./assets/gh-readme-header.png" /></a></p>
+<p align="center"><a href="https://DY13208.github.io"><img width="80%" alt="Hello, I'm ElectronEraser. I do open source!" src="./assets/gh-readme-header.png" /></a></p>
 
 <br />
+
+&nbsp;<div align="center">
+  [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/omnitenebris)
+</div>
+
 
 <!--彩虹分割线-->
 <img width="200%" src="https://cdn.jsdelivr.net/gh/Jayce-liang/Jayce-liang/assets/images/rainbow.gif" />
@@ -63,15 +68,19 @@
 <!-- #### My Coding Project And Language -->
 
 <div align="center">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=DY13208&theme=tokyonight&show_icons=true" />
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DY13208&theme=tokyonight&langs_count=6&layout=compact" />
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=DY13208&theme=buefy&show_icons=true" />
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DY13208&theme=buefy&langs_count=6&layout=compact" />
 </div>
 
 
 <div>&nbsp;</div>
 
 
- Last Updated on 2025-10-29 01:21:07 UTC
+<h2 align="center">⚡ Stats ⚡</h2>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DY13208&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+</p>
+
+<hr>
 <!--END_SECTION:waka-->
 
 <div>&nbsp;</div>
