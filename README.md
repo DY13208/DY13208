@@ -42,7 +42,7 @@
     <!-- </a> -->
 </div>
 
-<p align="center"><a href="https://DY13208.github.io"><img width="80%" alt="Hello, I'm ElectronEraser. I do open source!" src="./assets/gh-readme-header.png" /></a></p>
+<!-- <p align="center"><a href="https://DY13208.github.io"><img width="80%" alt="Hello, I'm ElectronEraser. I do open source!" src="./assets/gh-readme-header.png" /></a></p> -->
 
 <br />
 
