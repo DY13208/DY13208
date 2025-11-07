@@ -50,6 +50,37 @@
   [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/omnitenebris)
 </div>
 
+<blockquote>
+<p>Maybe 我有很多缺陷。希望你能看到动人的那面。</p>
+</blockquote>
+
+<blockquote>
+<p><del>26 岁，是人。</del> 学习进修 ing。<br>在下永远十八，遵纪守法，爱国爱家，不碰烟酒，善养鸡鸭，多荤少素，爱吃西瓜。</p>
+</blockquote>
+
+<ul>
+<li>爱好：<a target="_blank" rel="noopener" href="http://www.m3guo.com/v2/" data-pjax-state="">MSG</a>、僵尸、韩剧、<del>学习</del>、java（以及一切有趣的东西）、<del>摸鱼</del></li>
+<li>喜欢：西瓜、睡觉、izw99s（可爱的女孩子）、冲浪🏄‍</li>
+<li>讨厌：睡不着（啊啊啊啊！！难晚安忠实用户，失眠星球永远守护者）</li>
+<li>运动：<del>篮球，乒乓球，足球，羽毛球</del> (笑死你不会信了吧……)</li>
+<li>目标：软件设计 || 早日工作 || 游戏开发者 || 插本</li>
+<li>梦想：睡觉师 &amp;&amp; 看漫画家 &amp;&amp; 作家 &amp;&amp; 动画人 &amp;&amp; 独立游戏制作人 &amp;&amp; 全职网红 &amp;&amp; 🦸‍♂️（皆为不切实际的）</li>
+</ul>
+
+<details>
+<summary>此生想要完成的事情</summary>
+
+<ul>
+<li><input checked="" disabled="" type="checkbox"> 坚持学习（希望能一直坚持下去）</li>
+<li><input disabled="" type="checkbox"> 出国旅游</li>
+<li><input disabled="" type="checkbox"> 变成顶梁柱</li>
+<li><input disabled="" type="checkbox"> 做一个浪漫的人</li>
+<li><input disabled="" type="checkbox"> 做一部有故事的动画短片</li>
+<li><input disabled="" type="checkbox"> 画一本有趣的短篇漫画</li>
+<li><input disabled="" type="checkbox"> 写一首藏有回忆的歌</li>
+<li><input disabled="" type="checkbox"> 在乡村老家有一栋按照自己想法建造的房子</li>
+<li><input disabled="" type="checkbox"> 成为一个自己不讨厌的、有趣的人</li>
+<li><input disabled="" type="checkbox"> 种花种草，养狗养猫，<del>孤独终老</del>（！不，我要和izw99s一起孤独终老）！</li></ul></details>
 
 <!--彩虹分割线-->
 <img width="200%" src="https://cdn.jsdelivr.net/gh/Jayce-liang/Jayce-liang/assets/images/rainbow.gif" />
